@@ -5,6 +5,10 @@
 * Modified    : January 2020
 * Description :
 
+[ More e code examples in https://github.com/efratcdn/spmn-e-utils ]
+
+
+
 Define a coverage group as to be sampled on multiple events.
 
 
